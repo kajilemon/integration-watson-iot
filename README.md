@@ -6,12 +6,12 @@ This is an example integration of The Things Network with IBM Watson IoT Platfor
 
 ## Setup
 
-Make sure you have to regist your The Things Network Application as Watson IoT device.
-1. login to Bluemix Console
-2. check your organization for your account which is refered as "org".
-3. login to Watson IoT dashboard
+Make sure you have to configure your TTN Application as Watson IoT device.
+1. Login to Bluemix Console
+2. Check your organization for your account which is refered as "org".
+3. Login to Watson IoT dashboard
 4. Create device type (eg. ttn) which is refered as "type".
-5. Create device (eg. loraapp) which is refered as "id".
+5. Create device (eg. loraapp01) which is refered as "id".
 6. Create Application API key which is refered as "auth-token".
 
 You need this parameters (org, type, id, auth-token) to connect to Watson Iot Platform.
