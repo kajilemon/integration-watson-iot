@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "ttn": "^2.0.0-6"
+    "ttn": "^2.0.0-6",
+    "ibmiotf": "^0.2.34"
   }
 }
